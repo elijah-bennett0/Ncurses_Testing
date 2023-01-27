@@ -1,0 +1,2 @@
+export COLUMNS
+export LINES
